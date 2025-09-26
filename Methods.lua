@@ -1,4 +1,7 @@
 return {
+    Ffc = game.FindFirstChild,
+    Ffcoc = game.FindFirstChildOfClass,
+
     FromRGB = Color3.fromRGB,
 
     Vector3New = Vector3.new,
